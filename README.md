@@ -1,2 +1,1 @@
-# clone-clubhouse
-Created with CodeSandbox
+# Clone do app Club House
